@@ -1,0 +1,564 @@
+,City,Lat,Lon,Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+0,Punta Arenas,-53.15,-70.92,41.0,93,90,3.36,CL,<class 'datetime.date'>
+1,Kandalaksha,67.16,32.41,38.82,75,6,3.58,RU,<class 'datetime.date'>
+2,Bredasdorp,-34.53,20.04,57.2,87,79,2.62,ZA,<class 'datetime.date'>
+3,Hithadhoo,-0.6,73.08,84.96,78,79,14.09,MV,<class 'datetime.date'>
+4,Rikitea,-23.12,-134.97,75.69,72,9,12.66,PF,<class 'datetime.date'>
+5,Barrow,71.29,-156.79,14.0,85,90,14.99,US,<class 'datetime.date'>
+6,Mar del Plata,-38.0,-57.56,48.42,93,60,13.87,AR,<class 'datetime.date'>
+7,Atuona,-9.8,-139.03,80.87,75,84,19.77,PF,<class 'datetime.date'>
+8,Avarua,-21.21,-159.78,77.0,88,4,1.12,CK,<class 'datetime.date'>
+9,Savannah Bight,16.45,-85.85,82.29,81,100,16.73,HN,<class 'datetime.date'>
+10,Mataura,-46.19,168.86,49.17,86,99,1.77,NZ,<class 'datetime.date'>
+11,Arraial do Cabo,-22.97,-42.03,69.24,74,75,11.43,BR,<class 'datetime.date'>
+12,Tula,54.2,37.61,55.99,57,39,3.18,RU,<class 'datetime.date'>
+13,Kapaa,22.08,-159.32,72.59,73,75,18.34,US,<class 'datetime.date'>
+14,Miyako,39.64,141.95,61.86,50,7,8.08,JP,<class 'datetime.date'>
+15,Nhulunbuy,-12.23,136.77,84.2,54,40,14.99,AU,<class 'datetime.date'>
+16,Mana,5.66,-53.78,77.27,85,93,8.86,GF,<class 'datetime.date'>
+17,Carnarvon,-24.87,113.63,75.6,35,70,19.55,AU,<class 'datetime.date'>
+18,Bethel,41.37,-73.41,50.7,53,20,6.93,US,<class 'datetime.date'>
+19,Qaqortoq,60.72,-46.03,39.2,89,39,3.36,GL,<class 'datetime.date'>
+20,Inhambane,-23.86,35.38,68.0,88,20,9.82,MZ,<class 'datetime.date'>
+21,Samaná,19.21,-69.34,76.95,85,5,7.34,DO,<class 'datetime.date'>
+22,Fillmore,43.67,-92.1,42.35,30,1,10.29,US,<class 'datetime.date'>
+23,Hong Kong,22.29,114.16,86.49,77,92,5.99,HK,<class 'datetime.date'>
+24,Ushuaia,-54.8,-68.3,46.4,87,75,1.68,AR,<class 'datetime.date'>
+25,Pires do Rio,-17.3,-48.28,60.24,98,88,1.79,BR,<class 'datetime.date'>
+26,Coquimbo,-29.95,-71.34,57.2,87,75,4.7,CL,<class 'datetime.date'>
+27,Thompson,55.74,-97.86,26.6,73,75,9.17,CA,<class 'datetime.date'>
+28,Cape Town,-33.93,18.42,60.4,87,25,6.93,ZA,<class 'datetime.date'>
+29,Port Alfred,-33.59,26.89,63.0,92,93,7.0,ZA,<class 'datetime.date'>
+30,Codajás,-3.84,-62.06,74.03,98,89,2.93,BR,<class 'datetime.date'>
+31,Mareeba,-17.0,145.43,80.44,54,40,16.11,AU,<class 'datetime.date'>
+32,Esperance,-33.87,121.9,59.0,67,75,19.46,AU,<class 'datetime.date'>
+33,Chokurdakh,70.63,147.92,27.43,96,30,8.79,RU,<class 'datetime.date'>
+34,Saint Paul Harbor,57.79,-152.41,44.6,81,90,21.92,US,<class 'datetime.date'>
+35,Karacaköy,41.4,28.38,57.56,62,75,6.93,TR,<class 'datetime.date'>
+36,Coahuayana Viejo,18.73,-103.68,74.5,63,0,2.48,MX,<class 'datetime.date'>
+37,Walvis Bay,-22.96,14.51,74.86,27,0,10.13,NA,<class 'datetime.date'>
+38,Leningradskiy,69.38,178.42,27.99,92,0,4.29,RU,<class 'datetime.date'>
+39,Saint-Philippe,-21.36,55.77,79.57,74,20,5.82,RE,<class 'datetime.date'>
+40,Sept-Îles,50.2,-66.38,34.5,69,75,4.7,CA,<class 'datetime.date'>
+41,Chui,-33.7,-53.46,47.19,82,15,6.76,UY,<class 'datetime.date'>
+42,Komsomolets,53.75,62.07,71.78,24,0,9.98,KZ,<class 'datetime.date'>
+43,Genhe,50.78,121.52,61.03,29,0,11.81,CN,<class 'datetime.date'>
+44,Yellowknife,62.46,-114.35,39.34,69,75,4.14,CA,<class 'datetime.date'>
+45,Hilo,19.73,-155.09,66.47,65,40,8.05,US,<class 'datetime.date'>
+46,Constitución,-35.33,-72.42,60.17,45,100,5.73,CL,<class 'datetime.date'>
+47,Kambove,-10.88,26.6,60.33,76,70,8.97,CD,<class 'datetime.date'>
+48,Provideniya,64.38,-173.3,37.29,74,90,12.8,RU,<class 'datetime.date'>
+49,Vaini,-21.2,-175.2,78.8,94,90,6.93,TO,<class 'datetime.date'>
+50,Albany,42.6,-73.97,42.17,58,56,8.37,US,<class 'datetime.date'>
+51,Butte,39.65,-121.57,71.98,35,1,4.7,US,<class 'datetime.date'>
+52,Ponta do Sol,32.67,-17.1,58.62,72,20,2.24,PT,<class 'datetime.date'>
+53,La Unión,-5.4,-80.75,74.97,68,8,10.92,PE,<class 'datetime.date'>
+54,Calabozo,8.92,-67.43,80.53,75,100,1.7,VE,<class 'datetime.date'>
+55,Busselton,-33.65,115.33,56.93,87,100,1.99,AU,<class 'datetime.date'>
+56,Gigmoto,13.78,124.39,86.59,62,79,5.21,PH,<class 'datetime.date'>
+57,Taldan,53.67,124.8,59.59,28,1,10.51,RU,<class 'datetime.date'>
+58,Jamestown,42.1,-79.24,39.2,60,1,6.93,US,<class 'datetime.date'>
+59,Bluff,-46.6,168.33,50.77,78,99,4.74,NZ,<class 'datetime.date'>
+60,Kolokani,13.57,-8.03,84.33,35,35,4.7,ML,<class 'datetime.date'>
+61,Ribeira Grande,38.52,-28.7,60.91,69,68,23.64,PT,<class 'datetime.date'>
+62,Port Elizabeth,-33.92,25.57,62.6,93,20,16.11,ZA,<class 'datetime.date'>
+63,Dongkan,34.0,119.83,72.18,94,100,7.31,CN,<class 'datetime.date'>
+64,Upernavik,72.79,-56.15,15.35,92,18,6.29,GL,<class 'datetime.date'>
+65,Faanui,-16.48,-151.75,81.5,79,0,16.04,PF,<class 'datetime.date'>
+66,Nouakchott,18.09,-15.98,71.6,53,6,14.99,MR,<class 'datetime.date'>
+67,Los Llanos de Aridane,28.66,-17.92,64.4,72,14,6.93,ES,<class 'datetime.date'>
+68,Yoichi,43.2,140.77,71.78,21,75,17.22,JP,<class 'datetime.date'>
+69,Marrakesh,31.63,-8.01,57.2,87,0,4.7,MA,<class 'datetime.date'>
+70,Itapecerica,-20.47,-45.13,57.27,89,99,7.25,BR,<class 'datetime.date'>
+71,Shimoda,34.67,138.95,68.0,45,5,9.17,JP,<class 'datetime.date'>
+72,Halden,59.12,11.39,46.15,70,78,6.93,NO,<class 'datetime.date'>
+73,Selenginsk,52.01,106.86,57.2,35,75,15.66,RU,<class 'datetime.date'>
+74,Sibolga,1.74,98.78,86.52,62,96,7.49,ID,<class 'datetime.date'>
+75,Cockburn Town,21.46,-71.14,81.07,80,66,5.75,TC,<class 'datetime.date'>
+76,Teluk Anson,4.03,101.02,92.57,67,20,4.7,MY,<class 'datetime.date'>
+77,Vikersund,59.97,9.99,44.65,62,71,5.01,NO,<class 'datetime.date'>
+78,Ust-Kuyga,70.02,135.6,26.8,96,98,13.73,RU,<class 'datetime.date'>
+79,Kruisfontein,-34.0,24.73,59.16,71,95,7.43,ZA,<class 'datetime.date'>
+80,Muş Province,39.0,41.75,55.4,76,75,4.7,TR,<class 'datetime.date'>
+81,Nobeoka,32.58,131.67,69.01,58,62,11.01,JP,<class 'datetime.date'>
+82,Taraz,42.9,71.37,77.0,31,92,6.71,KZ,<class 'datetime.date'>
+83,Carlow,52.84,-6.93,44.67,96,88,4.0,IE,<class 'datetime.date'>
+84,Khatanga,71.97,102.5,18.66,94,0,11.32,RU,<class 'datetime.date'>
+85,Okhotsk,59.38,143.3,38.28,71,55,8.01,RU,<class 'datetime.date'>
+86,Kumul,42.8,93.45,69.71,18,0,10.29,CN,<class 'datetime.date'>
+87,Uvira,-3.41,29.15,75.61,65,68,2.73,CD,<class 'datetime.date'>
+88,Nueva Loja,0.08,-76.88,70.86,96,100,1.48,EC,<class 'datetime.date'>
+89,Fort Nelson,58.81,-122.7,48.2,76,20,2.82,CA,<class 'datetime.date'>
+90,Poquoson,37.12,-76.35,56.93,44,1,12.75,US,<class 'datetime.date'>
+91,Shizunai-furukawachō,42.33,142.37,54.41,57,24,10.38,JP,<class 'datetime.date'>
+92,New Norfolk,-42.78,147.06,59.52,63,95,4.0,AU,<class 'datetime.date'>
+93,Lock Haven,41.14,-77.45,42.35,75,90,3.36,US,<class 'datetime.date'>
+94,Matagami,49.75,-77.63,19.4,73,90,11.41,CA,<class 'datetime.date'>
+95,Norman Wells,65.28,-126.83,39.2,64,5,2.24,CA,<class 'datetime.date'>
+96,Władysławowo,54.79,18.4,49.08,81,69,8.05,PL,<class 'datetime.date'>
+97,Lázaro Cárdenas,17.96,-102.2,75.04,77,0,2.53,MX,<class 'datetime.date'>
+98,Narasannapeta,18.42,84.05,97.47,40,19,11.32,IN,<class 'datetime.date'>
+99,Puerto Ayora,-0.74,-90.35,77.0,94,25,1.99,EC,<class 'datetime.date'>
+100,Nuevo Progreso,23.17,-97.95,72.88,77,10,6.78,MX,<class 'datetime.date'>
+101,Tuktoyaktuk,69.45,-133.04,15.8,92,20,13.87,CA,<class 'datetime.date'>
+102,Skibbereen,51.55,-9.27,50.0,93,75,1.12,IE,<class 'datetime.date'>
+103,Province of Mantua,45.17,10.78,59.56,73,88,1.99,IT,<class 'datetime.date'>
+104,Clyde River,70.47,-68.59,3.2,91,1,2.24,CA,<class 'datetime.date'>
+105,Aranos,-24.13,19.12,60.91,36,0,9.51,NA,<class 'datetime.date'>
+106,Kavaratti,10.57,72.64,82.4,83,75,25.28,IN,<class 'datetime.date'>
+107,Tuatapere,-46.13,167.68,49.71,89,95,1.97,NZ,<class 'datetime.date'>
+108,Vardø,70.37,31.11,36.5,74,75,16.11,NO,<class 'datetime.date'>
+109,Aklavik,68.22,-135.01,33.8,69,5,8.05,CA,<class 'datetime.date'>
+110,Arecibo,18.47,-66.72,72.36,92,82,1.99,PR,<class 'datetime.date'>
+111,Cabo San Lucas,22.89,-109.91,78.51,16,4,12.1,MX,<class 'datetime.date'>
+112,Moose Factory,51.26,-80.61,19.4,85,90,10.29,CA,<class 'datetime.date'>
+113,Codrington,-38.27,141.97,59.74,70,56,11.45,AU,<class 'datetime.date'>
+114,Ponta Delgada,37.73,-25.67,60.8,87,40,5.82,PT,<class 'datetime.date'>
+115,Faya,18.39,42.45,71.6,56,29,5.53,SA,<class 'datetime.date'>
+116,Nakapiripirit,1.92,34.78,71.47,77,30,3.15,UG,<class 'datetime.date'>
+117,Cidreira,-30.18,-50.21,54.12,89,7,5.61,BR,<class 'datetime.date'>
+118,Dajal,29.56,70.38,103.57,12,0,8.99,PK,<class 'datetime.date'>
+119,Hermanus,-34.42,19.23,54.0,94,43,3.0,ZA,<class 'datetime.date'>
+120,Nome,64.5,-165.41,51.13,40,1,16.11,US,<class 'datetime.date'>
+121,Ciudad Guayana,8.35,-62.65,77.0,85,93,1.99,VE,<class 'datetime.date'>
+122,Tasiilaq,65.61,-37.64,26.6,79,0,1.12,GL,<class 'datetime.date'>
+123,Sakakah,29.97,40.21,77.0,20,0,16.11,SA,<class 'datetime.date'>
+124,Qaanaaq,77.48,-69.36,12.99,93,100,4.7,GL,<class 'datetime.date'>
+125,Bud,39.45,-86.18,54.95,72,70,7.07,US,<class 'datetime.date'>
+126,Linkou,45.3,130.28,64.96,50,100,13.22,CN,<class 'datetime.date'>
+127,Gornozavodsk,58.38,58.32,68.72,40,97,9.57,RU,<class 'datetime.date'>
+128,Tabory,58.52,64.55,74.05,27,91,10.6,RU,<class 'datetime.date'>
+129,Hambantota,6.12,81.12,87.28,66,78,10.87,LK,<class 'datetime.date'>
+130,Hobart,-42.88,147.33,62.4,39,20,16.11,AU,<class 'datetime.date'>
+131,Dwārka,22.24,68.97,86.97,66,0,13.33,IN,<class 'datetime.date'>
+132,Mitsamiouli,-11.38,43.28,80.6,83,40,18.34,KM,<class 'datetime.date'>
+133,Port Hawkesbury,45.62,-61.35,32.68,98,90,10.29,CA,<class 'datetime.date'>
+134,Krasnosel'kup,65.7,82.47,42.93,79,91,17.34,RU,<class 'datetime.date'>
+135,Payo,-3.75,103.64,90.46,60,87,3.27,ID,<class 'datetime.date'>
+136,Souillac,-20.52,57.52,77.0,88,75,2.24,MU,<class 'datetime.date'>
+137,Beloha,-25.17,45.05,72.14,68,4,12.17,MG,<class 'datetime.date'>
+138,Paamiut,61.99,-49.67,36.68,82,84,1.21,GL,<class 'datetime.date'>
+139,Tiksi,71.69,128.87,18.81,95,100,17.09,RU,<class 'datetime.date'>
+140,Nikolskoye,59.7,30.79,47.84,75,0,6.71,RU,<class 'datetime.date'>
+141,Mäntsälä,60.66,25.28,43.97,60,1,5.82,FI,<class 'datetime.date'>
+142,Urusha,54.05,122.9,60.13,29,4,8.05,RU,<class 'datetime.date'>
+143,Friesach,46.96,14.41,44.53,75,67,3.36,AT,<class 'datetime.date'>
+144,Mount Isa,-20.73,139.5,89.6,24,75,8.05,AU,<class 'datetime.date'>
+145,Nantucket,41.28,-70.1,50.25,76,1,19.46,US,<class 'datetime.date'>
+146,Yulara,-25.24,130.99,87.8,14,40,16.11,AU,<class 'datetime.date'>
+147,Shīeli,44.17,66.75,81.37,26,99,9.1,KZ,<class 'datetime.date'>
+148,Dikson,73.51,80.55,25.23,98,100,31.12,RU,<class 'datetime.date'>
+149,Tura,25.52,90.22,92.86,30,1,6.26,IN,<class 'datetime.date'>
+150,Longyearbyen,78.22,15.64,26.6,68,40,6.93,SJ,<class 'datetime.date'>
+151,Daru,-9.08,143.21,82.22,73,87,14.12,PG,<class 'datetime.date'>
+152,Robertsport,6.75,-11.37,80.35,85,97,3.85,LR,<class 'datetime.date'>
+153,Noumea,-22.28,166.46,75.63,78,56,10.29,NC,<class 'datetime.date'>
+154,Sørland,67.67,12.69,33.8,80,40,2.24,NO,<class 'datetime.date'>
+155,Mahébourg,-20.41,57.7,77.0,88,75,2.24,MU,<class 'datetime.date'>
+156,Kalat,29.02,66.59,79.3,16,0,13.87,PK,<class 'datetime.date'>
+157,Rawson,-43.3,-65.1,63.5,46,100,10.04,AR,<class 'datetime.date'>
+158,Cherskiy,68.75,161.3,36.1,83,10,3.06,RU,<class 'datetime.date'>
+159,Rio Grande,-32.03,-52.1,50.68,84,0,8.1,BR,<class 'datetime.date'>
+160,Mopti,14.67,-4.0,82.56,14,62,9.24,ML,<class 'datetime.date'>
+161,Taoudenni,22.68,-3.98,95.02,18,88,10.2,ML,<class 'datetime.date'>
+162,Schmölln,50.9,12.37,45.52,75,100,4.7,DE,<class 'datetime.date'>
+163,Virginia Beach,36.85,-75.98,51.82,50,1,8.05,US,<class 'datetime.date'>
+164,Kaitangata,-46.28,169.85,50.0,71,76,2.33,NZ,<class 'datetime.date'>
+165,Castro,-24.79,-50.01,43.23,93,0,4.92,BR,<class 'datetime.date'>
+166,Stolin,51.89,26.85,47.57,66,61,7.31,BY,<class 'datetime.date'>
+167,Port Hedland,-20.32,118.57,89.6,27,10,14.99,AU,<class 'datetime.date'>
+168,Ossora,59.24,163.07,33.49,96,100,7.14,RU,<class 'datetime.date'>
+169,Sur,22.57,59.53,97.7,28,0,1.54,OM,<class 'datetime.date'>
+170,Kodinsk,58.69,99.18,52.7,47,17,7.67,RU,<class 'datetime.date'>
+171,Monte Alegre,-2.01,-54.07,74.61,97,100,0.6,BR,<class 'datetime.date'>
+172,Imbituba,-28.24,-48.67,57.2,87,90,1.12,BR,<class 'datetime.date'>
+173,Mayna,54.11,47.62,62.98,77,100,4.27,RU,<class 'datetime.date'>
+174,Hastings,50.86,0.57,50.04,78,93,3.74,GB,<class 'datetime.date'>
+175,Zaragoza,41.66,-0.88,60.8,72,50,4.7,ES,<class 'datetime.date'>
+176,Tanta,30.79,31.0,81.9,21,47,6.8,EG,<class 'datetime.date'>
+177,Inírida,3.87,-67.92,74.03,98,100,2.17,CO,<class 'datetime.date'>
+178,Pevek,69.7,170.31,33.87,86,16,2.35,RU,<class 'datetime.date'>
+179,Juneau,58.3,-134.42,50.95,57,75,3.98,US,<class 'datetime.date'>
+180,Palāsa,18.77,84.42,98.17,37,2,12.08,IN,<class 'datetime.date'>
+181,Kendari,-3.94,122.5,82.42,87,100,3.67,ID,<class 'datetime.date'>
+182,São Filipe,14.9,-24.5,72.88,78,21,12.33,CV,<class 'datetime.date'>
+183,East London,-33.02,27.91,64.4,72,92,9.17,ZA,<class 'datetime.date'>
+184,Meulaboh,4.14,96.13,77.88,93,100,10.47,ID,<class 'datetime.date'>
+185,Soskovo,52.75,35.38,47.44,83,69,6.35,RU,<class 'datetime.date'>
+186,La Ronge,55.1,-105.28,33.8,80,75,6.93,CA,<class 'datetime.date'>
+187,Poum,-20.23,164.02,77.09,69,4,26.04,NC,<class 'datetime.date'>
+188,Biak,-0.91,122.88,85.33,69,60,3.4,ID,<class 'datetime.date'>
+189,Saint George,37.1,-113.58,68.41,9,1,11.41,US,<class 'datetime.date'>
+190,Naze,28.37,129.48,75.2,73,75,19.46,JP,<class 'datetime.date'>
+191,Van,38.49,43.38,55.4,62,40,3.36,TR,<class 'datetime.date'>
+192,Pitimbu,-7.47,-34.81,73.4,94,20,3.36,BR,<class 'datetime.date'>
+193,Kahului,20.89,-156.47,69.91,73,40,16.11,US,<class 'datetime.date'>
+194,Gazojak,41.19,61.4,81.19,32,16,19.24,TM,<class 'datetime.date'>
+195,Sitka,57.05,-135.33,55.4,62,90,9.17,US,<class 'datetime.date'>
+196,Havøysund,71.0,24.66,33.82,80,40,23.04,NO,<class 'datetime.date'>
+197,Avera,33.19,-82.53,47.21,100,1,3.24,US,<class 'datetime.date'>
+198,Praia,14.92,-23.51,71.6,73,20,18.34,CV,<class 'datetime.date'>
+199,Guerrero Negro,27.98,-114.06,69.35,57,17,10.76,MX,<class 'datetime.date'>
+200,Letlhakane,-21.42,25.58,58.03,73,0,11.72,BW,<class 'datetime.date'>
+201,Kieta,-6.22,155.63,82.76,72,46,3.13,PG,<class 'datetime.date'>
+202,Fomboni,-12.28,43.74,81.57,79,1,17.85,KM,<class 'datetime.date'>
+203,Lagoa,39.05,-27.98,60.26,68,40,27.04,PT,<class 'datetime.date'>
+204,Port Hardy,50.7,-127.42,48.2,76,40,10.29,CA,<class 'datetime.date'>
+205,Boa Vista,2.82,-60.67,77.0,88,40,5.82,BR,<class 'datetime.date'>
+206,Narsaq,60.92,-46.05,39.2,88,72,3.36,GL,<class 'datetime.date'>
+207,Talnakh,69.49,88.4,35.6,80,75,29.08,RU,<class 'datetime.date'>
+208,Mehamn,71.04,27.85,37.4,69,40,23.04,NO,<class 'datetime.date'>
+209,Puri,19.8,85.85,91.4,63,40,14.67,IN,<class 'datetime.date'>
+210,Lompoc,34.64,-120.46,55.0,87,1,5.82,US,<class 'datetime.date'>
+211,Palana,59.12,159.97,32.25,95,82,10.69,RU,<class 'datetime.date'>
+212,San Joaquin,10.26,-67.79,77.54,76,100,4.27,VE,<class 'datetime.date'>
+213,Nelson Bay,-32.72,152.15,77.22,34,0,8.05,AU,<class 'datetime.date'>
+214,Belleville,44.18,-77.37,33.75,74,5,5.82,CA,<class 'datetime.date'>
+215,Grindavik,63.84,-22.43,33.8,74,22,18.34,IS,<class 'datetime.date'>
+216,Beringovskiy,63.05,179.32,32.23,98,100,11.74,RU,<class 'datetime.date'>
+217,Muros,42.78,-9.06,57.0,89,56,4.21,ES,<class 'datetime.date'>
+218,Saint-Augustin,51.23,-58.65,34.07,97,100,7.96,CA,<class 'datetime.date'>
+219,Suvorov,54.12,36.5,48.2,81,75,4.47,RU,<class 'datetime.date'>
+220,Arrecife,28.96,-13.55,64.4,77,20,8.05,ES,<class 'datetime.date'>
+221,Vila Franca do Campo,37.72,-25.43,60.8,87,40,5.82,PT,<class 'datetime.date'>
+222,Korla,41.76,86.15,70.81,20,74,13.98,CN,<class 'datetime.date'>
+223,Laguna,38.42,-121.42,70.39,42,1,2.89,US,<class 'datetime.date'>
+224,Broken Hill,-31.95,141.43,71.6,30,0,10.29,AU,<class 'datetime.date'>
+225,Zaysan,47.47,84.87,69.87,22,0,6.06,KZ,<class 'datetime.date'>
+226,Severo-Kuril'sk,50.68,156.12,35.37,85,100,14.52,RU,<class 'datetime.date'>
+227,George Town,5.41,100.34,90.16,70,40,3.36,MY,<class 'datetime.date'>
+228,Bengkulu,-3.8,102.27,86.13,69,66,13.82,ID,<class 'datetime.date'>
+229,Sebastian,35.17,-94.27,60.15,82,1,13.87,US,<class 'datetime.date'>
+230,Mossamedes,-15.2,12.15,79.38,50,0,3.94,AO,<class 'datetime.date'>
+231,Lüderitz,-26.65,15.16,53.6,93,38,5.82,NA,<class 'datetime.date'>
+232,Huaihua,27.55,109.96,88.74,69,61,2.89,CN,<class 'datetime.date'>
+233,Klaksvík,62.23,-6.59,42.8,93,100,5.82,FO,<class 'datetime.date'>
+234,Karpogory,64.0,44.45,42.78,74,98,3.24,RU,<class 'datetime.date'>
+235,Gushikawa,26.35,127.87,75.13,83,90,17.22,JP,<class 'datetime.date'>
+236,Uruguaiana,-29.75,-57.09,44.6,93,0,1.74,BR,<class 'datetime.date'>
+237,Petropavlovsk-Kamchatskiy,53.05,158.65,46.4,36,44,6.71,RU,<class 'datetime.date'>
+238,Karratha,-20.74,116.85,88.86,37,35,11.01,AU,<class 'datetime.date'>
+239,Sistranda,63.73,8.83,41.0,93,75,16.11,NO,<class 'datetime.date'>
+240,Dover,39.16,-75.52,51.91,66,1,12.75,US,<class 'datetime.date'>
+241,Tete,-16.16,33.59,71.6,73,40,6.93,MZ,<class 'datetime.date'>
+242,Puro,12.48,123.38,91.04,55,97,5.39,PH,<class 'datetime.date'>
+243,Katsuura,35.13,140.3,69.31,45,40,11.41,JP,<class 'datetime.date'>
+244,Benjamín Aceval,-24.97,-57.57,51.8,76,0,6.93,PY,<class 'datetime.date'>
+245,Isangel,-19.55,169.27,80.6,74,75,6.93,VU,<class 'datetime.date'>
+246,Hay River,60.82,-115.8,41.0,80,40,1.92,CA,<class 'datetime.date'>
+247,Mbandaka,0.05,18.26,73.33,96,98,3.8,CD,<class 'datetime.date'>
+248,Neiafu,-18.65,-173.98,82.4,83,75,8.05,TO,<class 'datetime.date'>
+249,Port-Gentil,-0.72,8.78,78.8,100,40,2.24,GA,<class 'datetime.date'>
+250,Dudinka,69.41,86.18,35.6,80,75,29.08,RU,<class 'datetime.date'>
+251,Hamilton,39.18,-84.53,54.19,71,20,10.29,US,<class 'datetime.date'>
+252,Leshan,29.56,103.76,85.28,38,41,4.59,CN,<class 'datetime.date'>
+253,Xai-Xai,-25.05,33.64,72.99,64,66,2.95,MZ,<class 'datetime.date'>
+254,Berlevåg,70.86,29.09,36.46,74,75,25.28,NO,<class 'datetime.date'>
+255,Fes,34.04,-5.0,55.4,93,0,8.05,MA,<class 'datetime.date'>
+256,Aswān,24.09,32.91,83.48,15,63,6.35,EG,<class 'datetime.date'>
+257,Shingū,33.73,135.98,66.2,68,75,14.99,JP,<class 'datetime.date'>
+258,Saint Anthony,45.02,-93.22,44.13,30,1,13.87,US,<class 'datetime.date'>
+259,Lebu,-37.62,-73.65,56.55,85,100,3.22,CL,<class 'datetime.date'>
+260,Vestmannaeyjar,63.44,-20.27,41.79,67,33,6.4,IS,<class 'datetime.date'>
+261,Villarrica,-25.75,-56.43,43.75,87,0,3.6,PY,<class 'datetime.date'>
+262,Leninsk-Kuznetsky,54.66,86.17,57.2,35,21,6.71,RU,<class 'datetime.date'>
+263,Butaritari,3.07,172.79,83.55,77,16,10.04,KI,<class 'datetime.date'>
+264,Grants Pass,42.44,-123.33,61.23,40,1,5.82,US,<class 'datetime.date'>
+265,Victor Harbor,-35.57,138.62,64.0,69,62,1.01,AU,<class 'datetime.date'>
+266,Samarinda,-0.5,117.15,90.07,63,72,4.7,ID,<class 'datetime.date'>
+267,Sydney,-33.87,151.21,77.63,61,0,1.99,AU,<class 'datetime.date'>
+268,Tara,56.89,74.37,76.71,24,0,6.64,RU,<class 'datetime.date'>
+269,Puerto Madryn,-42.77,-65.04,64.6,44,99,12.57,AR,<class 'datetime.date'>
+270,Kongolo,-5.38,27.0,73.27,88,100,4.47,CD,<class 'datetime.date'>
+271,Labuhan,-6.88,112.21,87.87,67,18,6.04,ID,<class 'datetime.date'>
+272,Maragogi,-9.01,-35.22,78.03,81,98,3.36,BR,<class 'datetime.date'>
+273,Pedasí,7.53,-80.03,80.89,85,98,12.62,PA,<class 'datetime.date'>
+274,Tegul'det,57.31,88.17,56.95,40,71,3.2,RU,<class 'datetime.date'>
+275,São João da Barra,-21.64,-41.05,66.31,87,100,12.44,BR,<class 'datetime.date'>
+276,Lamu,-2.27,40.9,79.88,87,92,17.78,KE,<class 'datetime.date'>
+277,Ferrol,43.48,-8.24,55.83,100,90,2.24,ES,<class 'datetime.date'>
+278,Torbay,47.67,-52.73,33.13,99,90,19.46,CA,<class 'datetime.date'>
+279,Samarai,-10.62,150.67,80.19,79,89,17.36,PG,<class 'datetime.date'>
+280,Inta,66.03,60.17,54.48,86,99,12.44,RU,<class 'datetime.date'>
+281,Nanortalik,60.14,-45.24,37.94,84,71,3.36,GL,<class 'datetime.date'>
+282,Luena,-11.78,19.92,60.67,69,39,7.05,AO,<class 'datetime.date'>
+283,Anloga,5.79,0.9,82.4,83,20,4.7,GH,<class 'datetime.date'>
+284,Palmer,42.16,-72.33,46.6,66,90,8.05,US,<class 'datetime.date'>
+285,San Quintín,30.48,-115.95,68.11,64,53,3.2,MX,<class 'datetime.date'>
+286,Oruzgan,32.83,66.0,77.88,18,30,4.03,AF,<class 'datetime.date'>
+287,Mayo,38.89,-76.51,52.81,58,1,8.5,US,<class 'datetime.date'>
+288,Dhidhdhoo,6.88,73.1,85.06,70,100,5.46,MV,<class 'datetime.date'>
+289,Tefé,-3.35,-64.71,73.67,98,84,2.01,BR,<class 'datetime.date'>
+290,Kidal,18.44,1.41,80.64,13,0,8.57,ML,<class 'datetime.date'>
+291,Alpena,45.06,-83.43,29.5,58,1,5.82,US,<class 'datetime.date'>
+292,Tazovsky,67.47,78.7,36.63,100,87,13.51,RU,<class 'datetime.date'>
+293,Saskylakh,71.92,114.08,9.7,93,79,8.08,RU,<class 'datetime.date'>
+294,Puerto Baquerizo Moreno,-0.9,-89.6,76.05,93,5,9.42,EC,<class 'datetime.date'>
+295,Vao,-22.67,167.48,73.04,79,72,29.21,NC,<class 'datetime.date'>
+296,Sijunjung,-0.69,100.95,82.58,73,100,1.21,ID,<class 'datetime.date'>
+297,Zhigansk,66.77,123.37,25.39,95,100,28.54,RU,<class 'datetime.date'>
+298,Adrar,20.5,-10.07,85.26,16,88,8.43,MR,<class 'datetime.date'>
+299,Łęczna,51.3,22.88,48.2,81,21,5.82,PL,<class 'datetime.date'>
+300,Camacupa,-12.02,17.48,56.86,78,5,5.57,AO,<class 'datetime.date'>
+301,Bambous Virieux,-20.34,57.76,79.39,88,75,2.24,MU,<class 'datetime.date'>
+302,Bagé,-31.33,-54.11,39.2,93,0,2.24,BR,<class 'datetime.date'>
+303,Mount Gambier,-37.83,140.77,62.6,67,40,17.22,AU,<class 'datetime.date'>
+304,Kyaikto,17.3,97.02,93.72,45,7,10.42,MM,<class 'datetime.date'>
+305,Carlsbad,33.16,-117.35,63.9,93,1,3.36,US,<class 'datetime.date'>
+306,Cândido de Abreu,-24.57,-51.33,46.36,79,0,2.68,BR,<class 'datetime.date'>
+307,Sivas Province,39.79,37.0,46.38,85,100,4.12,TR,<class 'datetime.date'>
+308,San Cristobal,7.77,-72.22,68.14,88,94,3.87,VE,<class 'datetime.date'>
+309,Moroni,-11.7,43.26,80.6,83,40,18.34,KM,<class 'datetime.date'>
+310,Yenangyaung,20.47,94.88,102.78,19,0,4.85,MM,<class 'datetime.date'>
+311,Micheweni,-4.97,39.83,80.04,83,93,17.34,TZ,<class 'datetime.date'>
+312,Baft,29.23,56.61,69.01,19,0,6.69,IR,<class 'datetime.date'>
+313,Mogadishu,2.04,45.34,80.6,65,20,9.17,SO,<class 'datetime.date'>
+314,Esil,51.96,66.4,72.05,32,0,16.28,KZ,<class 'datetime.date'>
+315,Yingkou,40.66,122.23,53.58,86,100,8.84,CN,<class 'datetime.date'>
+316,Bathsheba,13.22,-59.52,80.6,78,40,19.46,BB,<class 'datetime.date'>
+317,Tessalit,20.2,1.01,82.8,13,0,13.82,ML,<class 'datetime.date'>
+318,Luleå,65.58,22.15,35.6,59,62,4.7,SE,<class 'datetime.date'>
+319,Fairbanks,64.84,-147.72,60.44,25,1,9.17,US,<class 'datetime.date'>
+320,Kinablangan,7.69,126.55,86.09,72,24,8.12,PH,<class 'datetime.date'>
+321,Mil'kovo,54.72,158.62,42.75,62,67,0.94,RU,<class 'datetime.date'>
+322,Touros,-5.2,-35.46,73.4,94,20,4.7,BR,<class 'datetime.date'>
+323,Piaçabuçu,-10.41,-36.43,76.71,89,87,3.91,BR,<class 'datetime.date'>
+324,Ruiru,-1.16,36.96,64.4,88,75,4.7,KE,<class 'datetime.date'>
+325,Houma,29.6,-90.72,64.85,77,1,8.05,US,<class 'datetime.date'>
+326,Deputatsky,69.3,139.9,25.18,99,100,15.12,RU,<class 'datetime.date'>
+327,Jinchang,38.5,102.17,58.46,33,100,18.12,CN,<class 'datetime.date'>
+328,Jiuquan,39.74,98.52,60.3,25,100,29.08,CN,<class 'datetime.date'>
+329,Porto-Novo,6.5,2.6,84.2,79,40,9.17,BJ,<class 'datetime.date'>
+330,Jumla,29.27,82.18,64.24,33,0,4.7,NP,<class 'datetime.date'>
+331,Shar,49.59,81.05,72.99,32,0,15.26,KZ,<class 'datetime.date'>
+332,Atasū,48.68,71.64,72.19,27,84,19.69,KZ,<class 'datetime.date'>
+333,Plettenberg Bay,-34.05,23.37,62.02,71,76,4.54,ZA,<class 'datetime.date'>
+334,Madaoua,14.07,5.96,82.6,15,31,7.72,NE,<class 'datetime.date'>
+335,Moranbah,-22.0,148.05,78.75,43,5,15.99,AU,<class 'datetime.date'>
+336,Sambava,-14.27,50.17,80.08,71,4,8.1,MG,<class 'datetime.date'>
+337,Ilulissat,69.22,-51.1,21.2,79,0,2.24,GL,<class 'datetime.date'>
+338,Alappuzha,9.49,76.33,87.35,67,100,3.98,IN,<class 'datetime.date'>
+339,Baní,18.28,-70.33,82.0,97,13,4.59,DO,<class 'datetime.date'>
+340,Ürümqi,43.8,87.6,71.6,11,0,11.18,CN,<class 'datetime.date'>
+341,Ixtapa,20.7,-105.2,73.17,77,2,2.42,MX,<class 'datetime.date'>
+342,Nurota,40.56,65.69,73.4,60,62,6.93,UZ,<class 'datetime.date'>
+343,Sa Kaeo,13.81,102.07,98.29,42,90,7.31,TH,<class 'datetime.date'>
+344,Issoire,45.55,3.25,57.2,71,100,3.36,FR,<class 'datetime.date'>
+345,Aksha,50.28,113.29,64.18,27,68,7.96,RU,<class 'datetime.date'>
+346,Riyadh,24.69,46.72,80.6,30,40,3.36,SA,<class 'datetime.date'>
+347,Snezhnogorsk,69.19,33.25,35.6,74,40,4.47,RU,<class 'datetime.date'>
+348,Alice Springs,-23.7,133.88,87.8,12,0,12.75,AU,<class 'datetime.date'>
+349,Līsakovsk,52.54,62.49,71.01,24,0,14.79,KZ,<class 'datetime.date'>
+350,Road Town,18.42,-64.62,80.33,89,59,15.77,VG,<class 'datetime.date'>
+351,Smolenka,52.14,113.5,60.8,18,79,13.42,RU,<class 'datetime.date'>
+352,Pathein,16.78,94.73,99.59,36,55,14.52,MM,<class 'datetime.date'>
+353,Shiyan,32.65,110.78,78.01,17,88,5.84,CN,<class 'datetime.date'>
+354,Bryan,30.67,-96.37,74.64,73,90,14.99,US,<class 'datetime.date'>
+355,Lagan,45.39,47.37,63.07,80,96,17.74,RU,<class 'datetime.date'>
+356,Río Gallegos,-51.62,-69.22,44.6,87,20,4.7,AR,<class 'datetime.date'>
+357,Khovd,48.01,91.64,56.46,35,24,11.25,MN,<class 'datetime.date'>
+358,Zubtsov,56.18,34.59,45.95,63,58,10.51,RU,<class 'datetime.date'>
+359,Anapskaya,44.89,37.38,53.29,71,75,11.18,RU,<class 'datetime.date'>
+360,Lusambo,-4.97,23.45,76.44,78,87,1.52,CD,<class 'datetime.date'>
+361,Severnoye,56.35,78.36,72.52,45,58,5.77,RU,<class 'datetime.date'>
+362,College,64.86,-147.8,59.83,29,75,9.17,US,<class 'datetime.date'>
+363,Erzin,36.96,36.2,64.99,84,97,2.71,TR,<class 'datetime.date'>
+364,Saint-Léonard,47.17,-67.92,31.96,38,1,5.82,CA,<class 'datetime.date'>
+365,Poya,-21.35,165.15,73.27,74,20,12.73,NC,<class 'datetime.date'>
+366,Abnūb,27.27,31.15,66.2,45,0,6.93,EG,<class 'datetime.date'>
+367,Broome,42.25,-75.83,34.93,80,90,6.93,US,<class 'datetime.date'>
+368,Polyanka,50.26,27.69,48.11,67,35,10.78,UA,<class 'datetime.date'>
+369,Balkanabat,39.51,54.37,65.08,66,72,14.99,TM,<class 'datetime.date'>
+370,Castrillón,43.4,-6.79,57.72,87,20,8.05,ES,<class 'datetime.date'>
+371,Bar Harbor,44.39,-68.2,39.61,100,1,5.82,US,<class 'datetime.date'>
+372,Port Lincoln,-34.73,135.87,62.89,69,53,26.26,AU,<class 'datetime.date'>
+373,Cavan,53.99,-7.36,48.99,90,92,2.53,IE,<class 'datetime.date'>
+374,Khasan,42.43,130.64,56.84,65,100,10.36,RU,<class 'datetime.date'>
+375,Pemangkat,1.17,108.97,85.5,72,33,9.69,ID,<class 'datetime.date'>
+376,Kavieng,-2.57,150.8,85.08,69,3,9.51,PG,<class 'datetime.date'>
+377,Columbus,39.96,-83.0,54.09,50,90,8.05,US,<class 'datetime.date'>
+378,Onega,63.91,38.14,42.91,69,58,6.15,RU,<class 'datetime.date'>
+379,Cabedelo,-6.98,-34.83,73.4,94,20,3.36,BR,<class 'datetime.date'>
+380,Puksoozero,62.59,40.61,46.65,78,100,1.99,RU,<class 'datetime.date'>
+381,Haukipudas,65.18,25.35,40.21,69,99,6.93,FI,<class 'datetime.date'>
+382,Bartlesville,36.75,-95.98,57.06,87,90,8.05,US,<class 'datetime.date'>
+383,Mahroni,24.59,78.73,106.27,9,16,2.75,IN,<class 'datetime.date'>
+384,Acapulco de Juárez,16.86,-99.89,80.6,74,5,5.82,MX,<class 'datetime.date'>
+385,Hereford,52.06,-2.71,49.91,95,98,0.22,GB,<class 'datetime.date'>
+386,Mayong,-8.24,114.96,86.0,89,20,20.8,ID,<class 'datetime.date'>
+387,Lyngseidet,69.58,20.22,33.89,69,75,9.17,NO,<class 'datetime.date'>
+388,Hammerfest,70.66,23.68,32.0,88,90,24.16,NO,<class 'datetime.date'>
+389,Zyryanka,65.75,150.85,36.5,88,10,9.17,RU,<class 'datetime.date'>
+390,Numan,9.47,12.03,82.81,66,13,9.66,NG,<class 'datetime.date'>
+391,Naryan-Mar,67.67,53.09,33.87,99,99,8.61,RU,<class 'datetime.date'>
+392,Ambulu,-8.35,113.61,86.32,77,52,7.76,ID,<class 'datetime.date'>
+393,Alofi,-19.06,-169.92,78.8,88,91,6.93,NU,<class 'datetime.date'>
+394,Kępno,51.28,17.99,46.0,100,71,6.33,PL,<class 'datetime.date'>
+395,Røros,62.57,11.38,37.4,64,75,6.93,NO,<class 'datetime.date'>
+396,Visaginas,55.6,26.42,43.38,65,0,5.01,LT,<class 'datetime.date'>
+397,Saint-Pierre,-21.34,55.48,79.61,74,20,5.82,RE,<class 'datetime.date'>
+398,Rosarito,32.33,-117.03,66.96,72,1,2.44,MX,<class 'datetime.date'>
+399,Iskateley,67.68,53.15,33.76,99,99,8.61,RU,<class 'datetime.date'>
+400,Verāval,20.9,70.37,90.66,49,0,11.45,IN,<class 'datetime.date'>
+401,Marietta,33.95,-84.55,48.52,71,1,1.39,US,<class 'datetime.date'>
+402,Half Moon Bay,37.46,-122.43,58.55,59,1,3.36,US,<class 'datetime.date'>
+403,Kailua,21.4,-157.74,70.75,73,90,8.05,US,<class 'datetime.date'>
+404,Arlit,18.74,7.39,81.82,13,0,7.16,NE,<class 'datetime.date'>
+405,Rawlins,41.79,-107.24,34.83,74,75,18.34,US,<class 'datetime.date'>
+406,Paita,-5.09,-81.11,72.14,78,20,10.02,PE,<class 'datetime.date'>
+407,Ust'-Omchug,61.15,149.63,33.22,87,13,2.19,RU,<class 'datetime.date'>
+408,Zapolyarnyy,69.42,30.81,37.4,74,75,14.99,RU,<class 'datetime.date'>
+409,North Bend,43.41,-124.22,54.59,82,1,4.7,US,<class 'datetime.date'>
+410,Yuncheng,35.02,110.99,73.04,57,95,4.61,CN,<class 'datetime.date'>
+411,Capão da Canoa,-29.75,-50.01,55.38,78,0,4.83,BR,<class 'datetime.date'>
+412,Pacific Grove,36.62,-121.92,54.88,88,54,5.06,US,<class 'datetime.date'>
+413,Cayenne,4.93,-52.33,78.8,88,75,5.82,GF,<class 'datetime.date'>
+414,Shitanjing,39.23,106.34,59.86,33,97,19.35,CN,<class 'datetime.date'>
+415,Malakal,9.53,31.66,86.27,51,79,4.99,SS,<class 'datetime.date'>
+416,Kurumkan,54.3,110.3,52.47,43,50,9.31,RU,<class 'datetime.date'>
+417,Johi,26.69,67.61,108.19,8,86,1.99,PK,<class 'datetime.date'>
+418,Le Havre,49.49,0.11,52.81,66,86,5.82,FR,<class 'datetime.date'>
+419,Yaan,7.38,8.57,74.57,87,99,7.29,NG,<class 'datetime.date'>
+420,Grenfell,-33.9,148.17,67.68,61,0,12.24,AU,<class 'datetime.date'>
+421,Qarqīn,37.42,66.04,85.6,29,71,8.46,AF,<class 'datetime.date'>
+422,Mackenzie,55.3,-123.17,48.2,66,1,3.36,CA,<class 'datetime.date'>
+423,Ternate,0.8,127.4,85.55,71,26,6.24,ID,<class 'datetime.date'>
+424,Banda Aceh,5.56,95.32,78.51,92,100,15.68,ID,<class 'datetime.date'>
+425,Kisangani,0.52,25.2,71.06,92,85,0.89,CD,<class 'datetime.date'>
+426,Bereda,43.27,-7.54,55.49,100,63,4.0,ES,<class 'datetime.date'>
+427,Doka,13.52,35.77,87.21,47,87,15.39,SD,<class 'datetime.date'>
+428,Saint-Junien,45.88,0.9,58.96,67,96,5.82,FR,<class 'datetime.date'>
+429,Mahibadhoo,3.78,72.97,84.67,76,84,12.84,MV,<class 'datetime.date'>
+430,Sinnamary,5.38,-52.95,77.9,84,100,9.64,GF,<class 'datetime.date'>
+431,Banepā,27.63,85.52,73.4,46,20,4.7,NP,<class 'datetime.date'>
+432,Skjervøy,70.03,20.97,35.6,69,75,9.17,NO,<class 'datetime.date'>
+433,Price,39.6,-110.81,42.8,26,1,10.29,US,<class 'datetime.date'>
+434,Hobyo,5.35,48.53,86.5,62,0,4.07,SO,<class 'datetime.date'>
+435,Chemax,20.65,-87.93,71.46,92,35,3.71,MX,<class 'datetime.date'>
+436,Prince Rupert,54.32,-130.32,46.4,65,1,3.36,CA,<class 'datetime.date'>
+437,Ridgecrest,35.62,-117.67,69.01,22,61,6.93,US,<class 'datetime.date'>
+438,Xining,36.62,101.77,44.24,76,100,3.53,CN,<class 'datetime.date'>
+439,Nago,26.59,127.98,75.13,83,90,17.22,JP,<class 'datetime.date'>
+440,Asău,46.43,26.4,52.0,62,15,6.6,RO,<class 'datetime.date'>
+441,Ogōri-shimogō,34.1,131.4,68.92,64,20,19.46,JP,<class 'datetime.date'>
+442,Portland,45.52,-122.68,62.6,25,1,10.29,US,<class 'datetime.date'>
+443,Nuuk,64.18,-51.72,39.2,77,93,3.36,GL,<class 'datetime.date'>
+444,Xichang,27.9,102.26,85.24,23,0,10.8,CN,<class 'datetime.date'>
+445,Verkh-Usugli,52.7,115.17,59.04,32,94,10.42,RU,<class 'datetime.date'>
+446,Pimentel,-6.84,-79.93,68.94,84,7,10.67,PE,<class 'datetime.date'>
+447,El Ejido,36.78,-2.81,67.53,52,61,9.17,ES,<class 'datetime.date'>
+448,Lewiston,44.1,-70.21,46.81,57,20,9.17,US,<class 'datetime.date'>
+449,Vostok,46.49,135.88,61.45,45,100,13.56,RU,<class 'datetime.date'>
+450,Horsham,51.06,-0.33,48.25,93,71,2.24,GB,<class 'datetime.date'>
+451,Atambua,-9.11,124.89,82.36,62,0,1.99,ID,<class 'datetime.date'>
+452,Grand Gaube,-20.01,57.66,82.0,76,99,1.99,MU,<class 'datetime.date'>
+453,Nemuro,43.32,145.57,69.8,32,20,14.99,JP,<class 'datetime.date'>
+454,Rocha,-34.48,-54.33,45.12,87,0,5.97,UY,<class 'datetime.date'>
+455,Kānth,29.07,78.63,95.11,22,0,3.22,IN,<class 'datetime.date'>
+456,Maniitsoq,65.42,-52.9,35.28,74,75,7.96,GL,<class 'datetime.date'>
+457,Ouallam,14.32,2.09,84.15,14,77,8.46,NE,<class 'datetime.date'>
+458,Zlatoust,55.17,59.65,65.86,31,1,11.14,RU,<class 'datetime.date'>
+459,Pombas,17.15,-25.02,71.6,73,20,25.28,CV,<class 'datetime.date'>
+460,Harper,4.38,-7.72,79.45,85,100,5.35,LR,<class 'datetime.date'>
+461,Natal,-5.79,-35.21,73.4,94,20,4.7,BR,<class 'datetime.date'>
+462,Lethem,3.38,-59.8,74.64,91,100,6.38,GY,<class 'datetime.date'>
+463,Nambucca Heads,-30.65,153.0,73.13,69,0,16.11,AU,<class 'datetime.date'>
+464,Singarāyakonda,15.25,80.03,97.48,40,52,11.43,IN,<class 'datetime.date'>
+465,Nushki,29.55,66.02,94.42,10,0,12.08,PK,<class 'datetime.date'>
+466,Makkaveyevo,51.75,113.95,60.8,18,55,13.42,RU,<class 'datetime.date'>
+467,Yar-Sale,66.83,70.83,41.47,99,97,15.01,RU,<class 'datetime.date'>
+468,Las Cruces,32.31,-106.78,76.93,7,1,10.29,US,<class 'datetime.date'>
+469,Dicabisagan,17.08,122.42,87.62,65,28,5.46,PH,<class 'datetime.date'>
+470,Hualmay,-11.1,-77.61,68.41,80,78,6.35,PE,<class 'datetime.date'>
+471,Saldanha,-33.01,17.94,51.8,93,8,5.82,ZA,<class 'datetime.date'>
+472,San Patricio,19.22,-104.7,73.92,78,0,3.18,MX,<class 'datetime.date'>
+473,Rabo de Peixe,37.8,-25.58,60.8,87,40,5.82,PT,<class 'datetime.date'>
+474,Rudnogorsk,57.26,103.75,50.02,47,98,10.38,RU,<class 'datetime.date'>
+475,Terrasini,38.15,13.08,62.76,77,40,4.7,IT,<class 'datetime.date'>
+476,Geraldton,-28.77,114.6,71.6,49,54,10.29,AU,<class 'datetime.date'>
+477,General Roca,-39.03,-67.58,42.8,93,95,2.24,AR,<class 'datetime.date'>
+478,Oddur,4.12,43.89,80.94,71,73,13.58,SO,<class 'datetime.date'>
+479,Tautira,-17.73,-149.15,82.2,74,24,3.36,PF,<class 'datetime.date'>
+480,Masallātah,32.62,14.0,63.03,69,0,13.56,LY,<class 'datetime.date'>
+481,Fortuna,40.6,-124.16,49.08,93,1,2.89,US,<class 'datetime.date'>
+482,Rezh,57.37,61.4,72.28,26,74,10.63,RU,<class 'datetime.date'>
+483,Nālūt,30.33,10.85,69.64,47,49,20.69,LY,<class 'datetime.date'>
+484,Sesimbra,38.44,-9.1,60.37,87,20,4.7,PT,<class 'datetime.date'>
+485,Atar,20.52,-13.05,77.83,22,0,10.27,MR,<class 'datetime.date'>
+486,Salalah,17.02,54.09,86.0,74,20,2.24,OM,<class 'datetime.date'>
+487,Airai,-8.93,125.41,71.29,77,6,3.98,TL,<class 'datetime.date'>
+488,Lavrentiya,65.58,-171.0,32.25,91,61,6.17,RU,<class 'datetime.date'>
+489,Buala,-8.14,159.59,83.8,74,72,4.72,SB,<class 'datetime.date'>
+490,Rancharia,-22.23,-50.89,52.88,86,0,9.35,BR,<class 'datetime.date'>
+491,Yamada,39.47,141.95,61.7,52,4,8.86,JP,<class 'datetime.date'>
+492,Batavia,41.85,-88.31,44.31,72,1,3.36,US,<class 'datetime.date'>
+493,Demba,-5.51,22.27,72.39,95,80,1.72,CD,<class 'datetime.date'>
+494,Pisco,-13.7,-76.22,67.55,77,100,5.82,PE,<class 'datetime.date'>
+495,Ivrea,45.47,7.88,59.49,80,100,1.07,IT,<class 'datetime.date'>
+496,Christchurch,-43.53,172.63,53.91,81,64,9.17,NZ,<class 'datetime.date'>
+497,Dingle,11.0,122.67,94.42,47,91,9.57,PH,<class 'datetime.date'>
+498,Comodoro Rivadavia,-45.87,-67.5,68.0,49,100,10.29,AR,<class 'datetime.date'>
+499,Itarema,-2.92,-39.92,75.94,90,1,7.07,BR,<class 'datetime.date'>
+500,Iqaluit,63.75,-68.51,28.2,50,75,8.05,CA,<class 'datetime.date'>
+501,Yarmouth,41.71,-70.23,52.21,58,1,10.29,US,<class 'datetime.date'>
+502,Dunedin,-45.87,170.5,51.57,80,97,2.42,NZ,<class 'datetime.date'>
+503,Zhangjiakou,40.81,114.88,69.55,47,100,17.74,CN,<class 'datetime.date'>
+504,Port Shepstone,-30.74,30.45,65.46,66,100,5.84,ZA,<class 'datetime.date'>
+505,Bac Lieu,9.29,105.72,91.89,54,92,11.18,VN,<class 'datetime.date'>
+506,Chimbote,-9.09,-78.58,68.83,82,64,6.53,PE,<class 'datetime.date'>
+507,Emba,48.83,58.14,72.81,27,0,17.6,KZ,<class 'datetime.date'>
+508,High Prairie,55.43,-116.49,46.38,90,100,11.41,CA,<class 'datetime.date'>
+509,Hatillo,18.49,-66.83,73.02,82,82,4.52,PR,<class 'datetime.date'>
+510,Tataouine,32.93,10.45,62.6,82,61,6.93,TN,<class 'datetime.date'>
+511,Štěpánov,49.68,17.22,46.15,92,61,2.33,CZ,<class 'datetime.date'>
+512,Humberto de Campos,-2.6,-43.46,75.61,93,48,2.28,BR,<class 'datetime.date'>
+513,Mananjary,-21.22,48.33,72.63,88,83,6.67,MG,<class 'datetime.date'>
+514,La Palma,33.85,-118.05,66.79,88,1,4.7,US,<class 'datetime.date'>
+515,Roald,62.58,6.13,44.33,75,75,16.11,NO,<class 'datetime.date'>
+516,Smithers,54.78,-127.17,48.2,52,1,2.24,CA,<class 'datetime.date'>
+517,Gubkinskiy,64.43,76.5,57.94,67,97,14.56,RU,<class 'datetime.date'>
+518,Saint Cloud,45.56,-94.16,39.63,32,1,8.05,US,<class 'datetime.date'>
+519,Revelstoke,50.98,-118.2,46.4,87,75,3.36,CA,<class 'datetime.date'>
+520,Lālmohan,22.34,90.74,91.2,46,0,6.38,BD,<class 'datetime.date'>
+521,Mudgee,-32.59,149.59,72.16,49,0,11.41,AU,<class 'datetime.date'>
+522,Gusau,12.16,6.66,80.02,44,24,5.44,NG,<class 'datetime.date'>
+523,Howard Springs,-12.5,131.05,90.21,38,20,8.05,AU,<class 'datetime.date'>
+524,Padang,-0.95,100.35,82.06,80,100,5.64,ID,<class 'datetime.date'>
+525,Barranca,-10.75,-77.77,67.03,84,95,5.39,PE,<class 'datetime.date'>
+526,Lábrea,-7.26,-64.8,69.53,94,100,5.23,BR,<class 'datetime.date'>
+527,Nosy Varika,-20.58,48.53,73.04,88,88,8.34,MG,<class 'datetime.date'>
+528,Esim,4.87,-2.24,80.26,85,6,5.68,GH,<class 'datetime.date'>
+529,Jiayuguan City,39.82,98.3,58.01,27,87,28.52,CN,<class 'datetime.date'>
+530,Te Anau,-45.42,167.72,51.37,82,89,4.36,NZ,<class 'datetime.date'>
+531,Lakatoro,-16.1,167.42,80.6,65,20,8.05,VU,<class 'datetime.date'>
+532,Manokwari,-0.87,134.08,85.05,74,65,6.24,ID,<class 'datetime.date'>
+533,Oktyabr'skoye,43.06,44.74,59.0,77,49,4.47,RU,<class 'datetime.date'>
+534,Teya,60.38,92.63,48.92,52,58,5.95,RU,<class 'datetime.date'>
+535,Heihe,50.24,127.49,66.2,32,40,4.47,CN,<class 'datetime.date'>
+536,Lorengau,-2.02,147.27,84.18,74,37,2.35,PG,<class 'datetime.date'>
+537,Uglovoye,44.82,33.6,53.22,78,50,15.61,UA,<class 'datetime.date'>
+538,Sarangani,5.4,125.46,85.01,74,58,7.56,PH,<class 'datetime.date'>
+539,Smidovich,48.6,133.82,63.19,53,96,14.23,RU,<class 'datetime.date'>
+540,Palekastro,35.2,26.25,62.55,65,21,31.54,GR,<class 'datetime.date'>
+541,Drayton Valley,53.22,-114.99,44.35,80,100,13.56,CA,<class 'datetime.date'>
+542,Bilibino,68.05,166.44,33.28,89,0,2.17,RU,<class 'datetime.date'>
+543,Kitale,1.02,35.01,65.19,87,97,4.5,KE,<class 'datetime.date'>
+544,Mikkeli,61.69,27.27,45.99,52,5,5.82,FI,<class 'datetime.date'>
+545,Shakawe,-18.37,21.85,59.22,51,0,8.08,BW,<class 'datetime.date'>
+546,Kenai,60.55,-151.26,48.96,49,20,14.99,US,<class 'datetime.date'>
+547,Les Cayes,18.2,-73.75,77.59,78,23,4.18,HT,<class 'datetime.date'>
+548,Canutama,-6.53,-64.38,72.64,92,99,5.26,BR,<class 'datetime.date'>
+549,Coyhaique,-45.58,-72.07,53.6,100,20,5.82,CL,<class 'datetime.date'>
+550,Manyana,-23.4,21.72,57.6,57,0,8.41,BW,<class 'datetime.date'>
+551,Taywarah,33.35,64.42,68.43,23,0,13.8,AF,<class 'datetime.date'>
+552,Cowra,-33.83,148.68,61.0,68,0,8.99,AU,<class 'datetime.date'>
+553,Domna,51.9,113.16,60.8,18,73,13.42,RU,<class 'datetime.date'>
+554,The Valley,18.22,-63.06,79.86,78,40,12.75,AI,<class 'datetime.date'>
+555,Maulawin,14.27,121.43,96.28,53,20,6.93,PH,<class 'datetime.date'>
+556,Toamasina,-18.17,49.38,75.2,94,40,4.72,MG,<class 'datetime.date'>
+557,Philadelphia,39.95,-75.16,55.58,44,75,10.29,US,<class 'datetime.date'>
+558,Dandong,40.13,124.39,54.9,80,100,8.1,CN,<class 'datetime.date'>
+559,Codlea,45.7,25.45,45.59,69,46,1.01,RO,<class 'datetime.date'>
+560,Stornoway,58.21,-6.39,48.94,93,97,1.12,GB,<class 'datetime.date'>
+561,Meadow Lake,34.8,-106.54,63.66,6,75,12.75,US,<class 'datetime.date'>
+562,Kaeo,-35.1,173.78,62.49,49,46,1.01,NZ,<class 'datetime.date'>
